@@ -1,7 +1,5 @@
 # GithubTest
-&dash
--[ ] I
--[ ] and
--[ ] my
--[ ] life
-
+- [x] create a post.
+- [x] create a page.
+- [x] add images.
+- [ ] published the post.
